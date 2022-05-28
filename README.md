@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-### 1.Intro to Web Scraping
+### 1.Intro to Web Scrapping
 
-### 2.Steps involved in Web Scraping
+### 2.Steps involved in Web Scrapping
 
 ### 3.Intro to Data Preprocessing
 
 ### 4.Steps involved in Data Preprocessing
 
-## Intro to Web Scraping
+## Intro to Web Scrapping
 
 Web scraping is a method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
-## Steps involved in Web Scraping 
+## Steps involved in Web Scrapping 
 
 `Step 1` : Identify the target website.
 
