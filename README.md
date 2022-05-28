@@ -14,7 +14,7 @@
 
 Web scraping is a method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
-## Steps invloved in Web Scraping 
+## Steps involved in Web Scraping 
 
 `Step 1` : Identify the target website.
 
