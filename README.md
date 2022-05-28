@@ -26,11 +26,11 @@ Web scraping is a method to obtain large amounts of data from websites. Most of 
 
 `Step 5` : Save the data in a `CSV `file or some other structured format.
 
-## 3.Intro to Data Preprocessing
+## Intro to Data Preprocessing
 
 Pre-processing refers to the transformations applied to our data before feeding it to the algorithm. Data Preprocessing is a technique that is used to convert the raw data into a clean data set. In other words, whenever the data is gathered from different sources it is collected in raw format which is not feasible for the analysis.
 
-## 4.Steps involved in Data Preprocessing
+## Steps involved in Data Preprocessing
 
 `Step 1` : Import the libraries.
 
